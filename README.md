@@ -1,12 +1,6 @@
 # Hi there, I'm Anas Zahid 👋
 
-### A full stack web developer who loves sharing my insured codes here when I have extra time to benefit others. I hope you will find my repositories useful and learn something from them :)
-
----
-
-## About me ✨
-
-Hi! I'm a full stack web developer with a passion for building scalable backend applications. I love solving problems and creating APIs that make life easier!
+### I'm a full stack Web Developer with a passion for building Web Applications. I love solving problems and creating APIs that make life easier! :)
 
 ---
 ## Skills ⚡
@@ -18,8 +12,8 @@ Hi! I'm a full stack web developer with a passion for building scalable backend 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESSJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)

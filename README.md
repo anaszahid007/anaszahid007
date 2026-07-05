@@ -41,18 +41,18 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mranas007&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true&icon_color=00E676&title_color=FFFFFF&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api?username=anaszahid007&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true&icon_color=00E676&title_color=FFFFFF&text_color=C9D1D9"
     height="170"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mranas007&theme=github-dark-blue&background=00000000&hide_border=true&ring=00E676&fire=00E676&currStreakLabel=00E676"
+    src="https://github-readme-streak-stats.herokuapp.com?user=anaszahid007&theme=github-dark-blue&background=00000000&hide_border=true&ring=00E676&fire=00E676&currStreakLabel=00E676"
     height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mranas007&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaszahid007&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=C9D1D9"
     height="170"
   />
 </p>

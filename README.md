@@ -40,28 +40,19 @@
 ## My Stats 📊
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anaszahid007&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true&icon_color=00E676&title_color=FFFFFF&text_color=C9D1D9"
-    height="170"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=anaszahid007&theme=github-dark-blue&background=00000000&hide_border=true&ring=00E676&fire=00E676&currStreakLabel=00E676"
-    height="170"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anaszahid007&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaszahid007&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaszahid007&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=C9D1D9"
-    height="170"
-  />
+  <img height="170" src="https://streak-stats.demolab.com?user=anaszahid007&theme=github-dark-blue&background=00000000&hide_border=true" />
 </p>
 
 ---
 
 **Thanks for reading and have a nice day!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-anas-9745852a7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mranas007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-zahid-9745852a7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anaszahid007)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mranas007&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=anaszahid007&label=Profile%20Views&color=0e75b6&style=flat)

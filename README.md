@@ -40,13 +40,15 @@
 ## My Stats 📊
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anaszahid007&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaszahid007&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anaszahid007&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anaszahid007&theme=github_dark" width="48%" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=anaszahid007&theme=github-dark-blue&background=00000000&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaszahid007&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaszahid007&theme=github_dark&utcOffset=5" width="48%" />
 </p>
+
 
 ---
 

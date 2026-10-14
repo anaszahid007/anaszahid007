@@ -2,7 +2,7 @@
 
 ### Full Stack Engineer | Specialized in MERN Stack & Python AI Integration
 
-I am a software engineer focused on building robust backends, real-time architectures, and integrating AI workflows into scalable web applications. I bridge the gap between high-performance web systems and intelligent data automation.
+I am a software engineer focused on building robust backends, real time architectures, and integrating AI workflows into scalable web applications. I bridge the gap between high-performance web systems and intelligent data automation.
 
 ---
 
@@ -37,9 +37,9 @@ I am a software engineer focused on building robust backends, real-time architec
 
 ## 🎓 Education & Growth
 
-- **BS in Computer Science (BSCS)** — Virtual University of Pakistan
-- **AI & Data Science Professional Track** — Saylani Mass IT Training (SMIT)
-- **Advanced Diploma in Software Engineering** — Aptech Computer Education
+- **BS in Computer Science (BSCS)**: Virtual University of Pakistan
+- **AI & Data Science Professional Track**: Saylani Mass IT Training (SMIT)
+- **Advanced Diploma in Software Engineering**: Aptech Computer Education
 
 ---
 
